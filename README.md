@@ -29,7 +29,7 @@
 
 ## Hi, I'm conanclub!😀
 
-### I am a freelance programming enthusiast who currently works as a manager in a manufacturing company in China. I usually spend my daily time learning about topics that interest me🤔, such as programming, lean, AI, etc.♈
+## I am a freelance programming enthusiast who currently works as a manager in a manufacturing company in China. I usually spend my daily time learning about topics that interest me🤔, such as programming, lean, AI, etc.♈
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-conanclub&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
