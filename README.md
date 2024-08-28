@@ -27,9 +27,9 @@
   </div>
 </div>
 
-## Hi, I'm conanclub!😀
+## Hi, 我是 conanclub!😀
 
-## I am a freelance programming enthusiast who currently works as a manager in a manufacturing company in China.
+## 我是一名热爱自学编程，自学技术的普通人.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-conanclub&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
