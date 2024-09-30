@@ -1,4 +1,4 @@
-Hi，I am conanclub, an ordinary code enthusiast currently working in a manufacturing industry in China, and I enjoy experiencing new tools or platforms.
+Hi, I am conanclub, an ordinary code enthusiast currently working in a manufacturing industry in China, and I enjoy experiencing new tools or platforms.
 
 <!-- GitHub 统计卡片 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-conanclub&count_private=true&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
