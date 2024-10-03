@@ -13,4 +13,4 @@ Hi, I am conanclub, an ordinary code enthusiast currently working in a manufactu
 [![trophy](https://github-profile-trophy.vercel.app/?username=A-conanclub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- GitHub 活动统计图 -->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-conanclub)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-conanclub)](https://github.com/ashutosh00710/github-readme-activity-graph)
