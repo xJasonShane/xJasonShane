@@ -11,3 +11,6 @@ Hi, I am conanclub, an ordinary code enthusiast currently working in a manufactu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-conanclub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- GitHub 奖杯 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=A-conanclub)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- GitHub 活动统计图 -->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-conanclub)
