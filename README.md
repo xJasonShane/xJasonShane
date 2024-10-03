@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CI'm+conanclub;%E6%9A%97%E5%A4%9C%E4%B9%8B%E9%AC%BC%EF%BC%8C%E4%B8%8D%E6%98%8E%E7%9C%9F%E8%BA%AB)](https://git.io/typing-svg)
 
-**An ordinary code enthusiast currently working in a manufacturing industry in China, and I enjoy experiencing new tools or platforms.**
+## **An ordinary code enthusiast currently working in a manufacturing industry in China, and I enjoy experiencing new tools or platforms.**
 
 <!-- GitHub 访客统计 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=A-conanclub&left_color=green&right_color=red)
