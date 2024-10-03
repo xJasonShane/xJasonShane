@@ -24,3 +24,10 @@
 
 <!-- GitHub 活动统计图 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A-conanclub)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- 加载贪吃蛇动画 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
