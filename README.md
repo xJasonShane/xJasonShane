@@ -10,6 +10,8 @@
 - **I am an ordinary person, not in the IT industry**
 - **Like to study new fields and hope to become a master programmer**
 - **Follow the Buddhist system and want to live a simple and worry-free life**
+- **My favorite singer is Joker Xue, and my favorite :book: is The Three-Body Problem**
+- **Visit my [personal blog](https://www.conanclub.eu.org/) to learn more**
 
 <p align="center">
 <!-- GitHub 统计卡片 -->
