@@ -4,7 +4,7 @@
 </p>
 <!-- 介绍动图 -->
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CI'm+conanclub;%E6%9A%97%E5%A4%9C%E4%B9%8B%E9%AC%BC%EF%BC%8C%E4%B8%8D%E6%98%8E%E7%9C%9F%E8%BA%AB)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GIthub+homepage" alt="Typing SVG" /></a>
 </p>
 
 - **I am an ordinary person, not in the IT industry**
