@@ -1,6 +1,6 @@
 <!-- 顶部图片 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Hi,Welcome}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I'm conanclub}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi,Welcome&fontSize=90&fontAlign=50&fontAlignY=30&desc=I'm conanclub&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- 介绍动图 -->
@@ -45,5 +45,5 @@
 </p>
 <!-- 底部图片 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={THE END!}&fontSize=90&fontAlign=50&fontAlignY=70&desc={Thank you for visiting.}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Thank you for visiting&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
