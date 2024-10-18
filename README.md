@@ -35,7 +35,7 @@
 <p align="center">
 <a href="https://github.com/A-conanclub"><img src="https://img.shields.io/badge/GitHub-A-conanclub-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/159285873"><img src="https://img.shields.io/badge/哔哩哔哩-心恸是什么-pink?logo=bilibili" /></a>
-<a href="https://wakatime.com/@conanclub"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" /></a>
+<a href="https://wakatime.com/@conanclub"><img src="https://wakatime.com/badge/github/A-conanclub/A-conanclub.svg" alt="wakatime"></a>
 <!-- 访客统计 -->
 <img src="https://komarev.com/ghpvc/?username=A-conanclub" />
 </p>
