@@ -29,11 +29,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
-<!-- 代码统计-列表 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=A-conanclub&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- 代码统计-饼图 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-conanclub&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
 <!-- 技术栈图标 -->
 <img align="center" src="https://skillicons.dev/icons?i=py,django,qt,md,git,github,vscode,ps,pr,ae,ai,gmail,notion,obsidian&theme=light&perline=7" />
 <!-- 徽章图标 -->
