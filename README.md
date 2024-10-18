@@ -1,8 +1,7 @@
 <!-- 顶部图片 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hi,Welcome&fontSize=90&fontAlign=50&fontAlignY=30&desc=I'm conanclub&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20Welcome&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20conanclub!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-
 <!-- 介绍动图 -->
 <p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CI'm+conanclub;%E6%9A%97%E5%A4%9C%E4%B9%8B%E9%AC%BC%EF%BC%8C%E4%B8%8D%E6%98%8E%E7%9C%9F%E8%BA%AB)](https://git.io/typing-svg)
@@ -45,5 +44,5 @@
 </p>
 <!-- 底部图片 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Thank you for visiting&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Thank%20your%20for%20visiting!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
