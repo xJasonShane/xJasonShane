@@ -1,8 +1,10 @@
-# Personal profile
+## Personal profile
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CI'm+conanclub;%E6%9A%97%E5%A4%9C%E4%B9%8B%E9%AC%BC%EF%BC%8C%E4%B8%8D%E6%98%8E%E7%9C%9F%E8%BA%AB)](https://git.io/typing-svg)
 
-## **An ordinary code enthusiast currently working in a manufacturing industry in China, and I enjoy experiencing new tools or platforms.**
+- **I am an ordinary person, not in the IT industry**
+- **Like to study new fields and hope to become a master programmer**
+- **Follow the Buddhist system and want to live a simple and worry-free life**
 
 <!-- GitHub 统计卡片 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-conanclub&count_private=true&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
