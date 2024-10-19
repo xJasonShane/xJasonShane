@@ -22,13 +22,6 @@
 <!-- GitHub 活动统计图 -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=A-conanclub&theme=github-compact&hide_border=true&area=true" />
 <br/>
-<!-- 加载贪吃蛇动画 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-</picture>
-<br/>
 <!-- 技术栈图标 -->
 <img align="center" src="https://skillicons.dev/icons?i=py,django,qt,md,git,github,vscode,ps,pr,ae,ai,gmail,notion,obsidian&theme=light&perline=7" />
 <!-- 徽章图标 -->
@@ -39,6 +32,12 @@
 <!-- 访客统计 -->
 <img src="https://komarev.com/ghpvc/?username=A-conanclub" />
 </p>
+<!-- 加载贪吃蛇动画 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
 <!-- 底部图片 -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Thank%20your%20for%20visiting!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
