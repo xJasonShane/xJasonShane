@@ -8,15 +8,15 @@
 </p>
 
 **个人介绍|Introduction**
-- :octocat:Hi,我是一个普通人！不是IT领域,但是心怀梦想！
+- :octocat:Hi,我是一个普通人！不是IT领域,但是心怀梦想！|
   ***Hi, I am an ordinary person! Not in the IT field, but with dreams!***
-- :hearts:我喜欢研究对我而言新的领域,比如探索编程的奥秘！
+- :hearts:我喜欢研究对我而言新的领域,比如探索编程的奥秘！|
   ***I enjoy studying new fields for me, such as exploring the mysteries of programming!***
-- :bomb:生活比较佛系,多愁善感,经常自我emo！
+- :bomb:生活比较佛系,多愁善感,经常自我emo！|
   ***Life is more Buddhist, sentimental, and often self-emo!***
-- :book:最喜欢的歌手是薛之谦，最喜欢读的书是《三体》！
+- :book:最喜欢的歌手是薛之谦，最喜欢读的书是《三体》！|
   ***My favorite singer is Joker Xue, and my favorite book is "The Three-Body Problem"!***
-- :mag_right:你可以参观我的[个人博客](https://www.conanclub.eu.org/)了解更多我的信息！【当然他有可能还在建设中... ...】
+- :mag_right:你可以参观我的[个人博客](https://www.conanclub.eu.org/)了解更多我的信息！【当然他有可能还在建设中... ...】|
   ***You can visit my [personal blog](https://www.conanclub.eu.org/) to learn more about me! [Of course he may still be under construction...]***
 
 <p align="center">
