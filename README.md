@@ -19,6 +19,7 @@
 - :mag_right:你可以参观我的[个人博客](https://www.conanclub.eu.org/)了解更多我的信息！【当然他有可能还在建设中... ...】|
   ***You can visit my [personal blog](https://www.conanclub.eu.org/) to learn more about me! [Of course he may still be under construction...]***
 
+## Github贡献|GitHub contribution
 <p align="center">
 <!-- GitHub 统计卡片 -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=A-conanclub&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
@@ -27,7 +28,10 @@
 <br/>
 <!-- GitHub 活动统计图 -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=A-conanclub&theme=github-compact&hide_border=true&area=true" />
-<br/>
+</p>
+
+## 领域展示|Field display
+<p align="center">
 <!-- 技术栈图标 -->
 <img align="center" src="https://skillicons.dev/icons?i=py,django,qt,md,git,github,vscode,ps,pr,ae,ai,gmail,notion,obsidian&theme=light&perline=7" />
 <!-- 徽章图标 -->
@@ -38,6 +42,7 @@
 <!-- 访客统计 -->
 <img src="https://komarev.com/ghpvc/?username=A-conanclub" />
 </p>
+
 <!-- 加载贪吃蛇动画 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
