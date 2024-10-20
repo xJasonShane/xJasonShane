@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20Welcome&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20conanclub!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
+
 <!-- 介绍动图 -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+homepage" alt="Typing SVG" /></a>
@@ -36,6 +37,8 @@
 </p>
 
 ## 时间统计 | Time Statistics
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=A-conanclub&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-conanclub&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
 ## 领域展示 | Field Display
 <p align="center">
