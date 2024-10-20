@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+homepage" alt="Typing SVG" /></a>
 </p>
 
-**个人介绍|Introduction**
+## 个人介绍|Introduction
 - :octocat:Hi,我是一个普通人！不是IT领域,但是心怀梦想！|
   ***Hi, I am an ordinary person! Not in the IT field, but with dreams!***
 - :hearts:我喜欢研究对我而言新的领域,比如探索编程的奥秘！|
