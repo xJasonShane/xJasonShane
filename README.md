@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+homepage" alt="Typing SVG" /></a>
 </p>
 
-## 个人介绍 | Introduction
+## 个人介绍 | Personal Introduction
 - :octocat:Hi,我是一个普通人！不是IT领域,但是心怀梦想！
   
   ***Hi, I am an ordinary person! Not in the IT field, but with dreams!***
@@ -24,7 +24,7 @@
   
   ***You can visit my [personal blog](https://www.conanclub.eu.org/) to learn more about me! [Of course he may still be under construction...]***
 
-## Github贡献 | GitHub contribution
+## Github贡献 | GitHub Contribution
 <p align="center">
 <!-- GitHub 统计卡片 -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=A-conanclub&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
@@ -35,7 +35,9 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=A-conanclub&theme=github-compact&hide_border=true&area=true" />
 </p>
 
-## 领域展示 | Field display
+## 时间统计 | Time Statistics
+
+## 领域展示 | Field Display
 <p align="center">
 <!-- 技术栈图标 -->
 <img align="center" src="https://skillicons.dev/icons?i=py,django,qt,md,git,github,vscode,ps,pr,ae,ai,gmail,notion,obsidian&theme=light&perline=7" />
@@ -48,6 +50,7 @@
 <img src="https://komarev.com/ghpvc/?username=A-conanclub" />
 </p>
 
+## 代码贪吃蛇 | Code Snake
 <!-- 加载贪吃蛇动画 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
