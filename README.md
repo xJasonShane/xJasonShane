@@ -38,7 +38,7 @@
 
 ## 时间统计 | Time Statistics
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=conanclub&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conanclub&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-conanclub&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
 ## 领域展示 | Field Display
 <p align="center">
