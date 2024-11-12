@@ -47,8 +47,8 @@
 <!-- 徽章图标 -->
 <p align="center">
 <a href="https://github.com/A-conanclub"><img src="https://img.shields.io/badge/GitHub-A--conanclub-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/159285873"><img src="https://img.shields.io/badge/哔哩哔哩-心恸是什么-blue?logo=bilibili" /></a>
-<a href="https://wakatime.com/@jasonshane"><img src="https://wakatime.com/badge/user/4d9e14a8-51d0-45c5-85c9-cf71d46d777b.svg" alt="wakatime"></a>
+<a href="https://space.bilibili.com/159285873" target="_blank"><img src="https://img.shields.io/badge/哔哩哔哩-心恸是什么-blue?logo=bilibili" /></a>
+<a href="https://wakatime.com/@jasonshane" target="_blank"><img src="https://wakatime.com/badge/user/4d9e14a8-51d0-45c5-85c9-cf71d46d777b.svg" alt="wakatime"></a>
 <!-- 访客统计 -->
 <img src="https://komarev.com/ghpvc/?username=A-conanclub" />
 </p>
