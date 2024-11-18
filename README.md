@@ -1,6 +1,6 @@
 <!-- 顶部图片 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20Welcome&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20conanclub!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20Welcome&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20JasonShane!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- 介绍动图 -->
@@ -59,7 +59,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xJasonShane/xJasonShane/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/xJasonShane/xJasonShane/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/xJasonShane/xJasonShane/blob/output/github-contribution-grid-snake.svg">
-
 </picture>
 <!-- 底部图片 -->
 <p align="center">
