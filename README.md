@@ -21,9 +21,9 @@
 - :book:最喜欢的歌手是薛之谦，最喜欢读的书是《三体》！
   
   ***My favorite singer is Joker Xue, and my favorite book is "The Three-Body Problem"!***
-- :mag_right:你可以参观我的[个人博客](https://blog.xshan.top/)了解更多我的信息！【当然他有可能还在建设中... ...】
+- :mag_right:你可以参观我的[个人主页](https://xshan.top/)了解更多我的信息！【当然他有可能还在建设中... ...】
   
-  ***You can visit my [personal blog](https://blog.xshan.top) to learn more about me! [Of course he may still be under construction...]***
+  ***You can visit my [Personal Homepage](https://xshan.top) to learn more about me! [Of course he may still be under construction...]***
 
 ## Github贡献 | GitHub Contribution
 <p align="center">
