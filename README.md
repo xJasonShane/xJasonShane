@@ -29,16 +29,12 @@
 <p align="center">
 <!-- GitHub 统计卡片 -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=xJasonShane&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<!-- GitHub 连续打卡 -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=xJasonShane&theme=transparent&hide_border=true" />
-<br/>
 <!-- GitHub 活动统计图 -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=xJasonShane&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ## 时间统计 | Time Statistics
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JasonShane&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xJasonShane&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 
 ## 领域展示 | Field Display
 <p align="center">
