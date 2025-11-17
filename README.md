@@ -38,8 +38,8 @@
 
 ## 领域展示 | Field Display
 <p align="center">
-<!-- 技术栈图标 -->
-<img align="center" src="https://skillicons.dev/icons?i=py,django,qt,md,git,github,vscode,ps,pr,ae,ai,gmail,notion,obsidian&theme=light&perline=7" />
+<!-- ​常用工具 -->
+<img align="center" src="https://skillicons.dev/icons?i=py,md,git,github,cloudflare,godot,vscode,blender,notion,obsidian&theme=light&perline=10" />
 <!-- 徽章图标 -->
 <p align="center">
 <a href="https://github.com/xJasonShane"><img src="https://img.shields.io/badge/GitHub-xJasonShane-blue?logo=github" /></a>
