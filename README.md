@@ -29,6 +29,7 @@
 <p align="center">
 <!-- GitHub 统计卡片 -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=xJasonShane&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+</p>
 
 ## 领域展示 | Field Display
 <p align="center">
