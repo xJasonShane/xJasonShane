@@ -25,12 +25,6 @@
   
   ***You can visit my [Personal Homepage](https://xshan.top) to learn more about me! [Of course he may still be under construction...]***
 
-## Github贡献 | GitHub Contribution
-<p align="center">
-<!-- GitHub 统计卡片 -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=xJasonShane&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-</p>
-
 ## 领域展示 | Field Display
 <p align="center">
 <!-- ​常用工具 -->
